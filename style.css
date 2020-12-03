@@ -9,7 +9,7 @@
 }
 
 body{
-    background: url(../img/sec6.jpg), black;
+    background: url(./img/sec6.jpg), black;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
