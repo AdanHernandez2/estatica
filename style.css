@@ -95,7 +95,7 @@ footer{
     border-radius: 5px;
     text-align: center;
     padding: 7px;
-    border: 1px solid red;
+/*     border: 1px solid red; */
 }
 footer a:link{
     color: white;
@@ -111,7 +111,7 @@ footer a:visited{
     main{
         display: inline-block;
         margin: 0 4.9rem 0 4.9rem;
-        border: 1px solid red;
+/*         border: 1px solid red; */
     }
     section{
         margin-bottom: 16px;
